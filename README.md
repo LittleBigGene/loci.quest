@@ -53,7 +53,7 @@ Borrowed for mood and layout, not mechanics: an explorable manor, a map that str
 
 ## Pricing
 
-**$199 per exam track** (starting with 6U).
+**$600 per exam track** (starting with 6U).
 
 Positioned as a premium study product — comparable to a focused review seminar or high-end exam prep resource. Interactive escape-room coverage of the full 6U syllabus and memory-palace methodology justify that tier.
 
@@ -75,7 +75,6 @@ See [docs/exam-coverage.md](docs/exam-coverage.md) for detail.
 | Track | Status |
 |---|---|
 | **6U** — Regulation and Financial Reporting (US) | In development |
-| **6C** — Regulation and Financial Reporting (Canada) | Planned next |
 
 See [docs/roadmap.md](docs/roadmap.md) for planned features and tracks.
 
