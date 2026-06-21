@@ -53,9 +53,20 @@ Borrowed for mood and layout, not mechanics: an explorable manor, a map that str
 
 ## Pricing
 
-**$600 per exam track** (starting with 6U).
+Two tiers per exam track, starting with **6U**. **Estate access is lifetime** on both tiers — explore the memory palace, wings, rooms, and curated readings for as long as you need.
 
-Positioned as a premium study product — comparable to a focused review seminar or high-end exam prep resource. Interactive escape-room coverage of the full 6U syllabus and memory-palace methodology justify that tier.
+| Tier | Price | Estate | Noriko |
+|---|---|---|---|
+| **Estate** | **$199** | Lifetime | — |
+| **Estate + Noriko** | **$599** | Lifetime | **1 year** of unlimited Q&A from purchase |
+
+**Noriko** is Loci's AI exam tutor — grounded in syllabus readings with citations, not generic ChatGPT. **Estate + Noriko** is comparable to a focused review seminar plus always-available, corpus-aware Q&A.
+
+**Add Noriko later** (already have Estate): **$399** for your first year of unlimited Q&A, then **$149/year** to renew.
+
+**Renew Noriko:** **$149/year** for another year of unlimited Q&A (estate access remains lifetime).
+
+See [docs/faq.md](docs/faq.md) for tier differences, Noriko access, and billing details.
 
 ## Exam coverage
 

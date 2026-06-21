@@ -19,7 +19,7 @@ This is a high-level view of where Loci is headed. Dates are not commitments —
 | Local progress (browser storage) | Shipped | No account required |
 | PWA / offline revisits | Planned | Web-first |
 | Accounts + progress sync | Planned | **loci.api** + Supabase |
-| Purchase flow ($199/track) | Planned | Tied to accounts backend |
+| Purchase flow (Estate $199 / Estate + Noriko $599; add Noriko $399; renew $149/yr) | Planned | Tied to **loci.api** + Stripe; lifetime estate; 1-year Noriko Q&A |
 | 3D walkable room interiors | Future | Three.js upgrade; content stays data-driven |
 
 ## How to influence the roadmap
